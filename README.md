@@ -1,4 +1,5 @@
 ![Surfing Ice Cream Cone](https://github.com/bnidam/Surfs_Up/blob/main/Resources/Surfing_Icecreamcone_vecteezy.png)
+image from Vecteezy https://www.vecteezy.com/vector-art/7071905-ice-cream-cone-surfing-on-the-beach
 # Surfs Up Challenge
 
 
@@ -22,11 +23,3 @@
 
 
 ## Summary 
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
