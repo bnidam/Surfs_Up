@@ -35,7 +35,10 @@ In order to assist Mr. W. Avy, it's a good idea to know somethings about Hawaii,
 
     The boxes in the middle of the image show the 50-percentile temperatures (those between 25% to 75%)  for June on the left and December on the right with the median temperature indicated by the green line. The lines extending up and down from the box display the maximum temperature (up) and minimum temperature (down) for each month. And the circles indicate the number and temperature value of any data outliers.
 
-    While the numbers shown in the table seemed to be relatively close between the two months for all but one of the statistics, this plot shows extent to which the temperatures in December are cooler and more variable than those in June.
+    While the numbers shown in the tables above seemed to be relatively close between the two months for all but one of the statistics, this plot shows the extent to which the temperatures in December are cooler and more variable than those in June:
+        - The range for the 50-percentile temperatures in December is larger and cooler than that for June.
+        - The median line for December falls below the middle of the 50-percentile box, showing that the distribution of temperatures is skewed to cooler temperatures than June's median line which is right in the middle of the box.
+        - December has the same number of warm temperature outliers as June has, but double the number of cooler temperature outliers.  
 
 ![Box and Whisker Plot for June and December Temperatures](https://github.com/bnidam/Surfs_Up/blob/main/Resources/TemperaturesBoxWhisk_June_Dec.png)
 
@@ -43,9 +46,9 @@ In order to assist Mr. W. Avy, it's a good idea to know somethings about Hawaii,
     The two figures below are histograms for the June and the December temperature data. 
 
     The two charts show the frequency distribution of the temperature count data for each month. By using the same scale for both data sets, it is easy to see that
-    - there are more warmer temperature counts in June than in December
-    - the highest frequency temperature for June is between 77.5-80 degrees, while the highest frequency temperature for December is between 70-72.5 degrees
-    - June has no counts in the cooler temperatures (left side of the charte) and December has no counts in the hottest temperature (right side of the chart)
+    - There are more warmer temperature counts in June than in December.
+    - The highest frequency temperature for June is between 77.5-80 degrees, while the highest frequency temperature for December is between 70-72.5 degrees.
+    - June has no counts in the cooler temperatures (left side of the charte) and December has no counts in the hottest temperature (right side of the chart).
 
 ![Histograms for June Temps and Dec Temps](https://github.com/bnidam/Surfs_Up/blob/main/Resources/TemperaturesHistogram_June_Dec.png)
 
