@@ -23,14 +23,14 @@ In order to assist Mr. W. Avy, it's a good idea to know somethings about Hawaii,
 
 ### Key differences in temperatures between June and December
 
-- Summary Statistics
+- Summary Statistics: 
     Below are the summary statistics tables for the temperature data for June and December.
 
     While June has 11% more counts than December, there are more than enough counts in December to make a viable comparison. These statistics show that overall June is a few degrees warmer than December with the mean, maximum, standard deviation, and the 25th, 50th, and 75th percentile temperatures varying only two to four degrees.  The minimum temperatures, however, vary by eight degrees with the cooler temps in December.
 
 ![Summary Statistics for June and December Temperatures](https://github.com/bnidam/Surfs_Up/blob/main/Resources/Temperatures_SummStats_June_Dec.png)
 
-- Box and Whisker Plot
+- Box and Whisker Plot: 
     The box and whisker plot below is a visual display of the summary statistics show in the tables above. 
 
     The boxes in the middle of the image show the 50-percentile temperatures (those between 25% to 75%)  for June on the left and December on the right with the median temperature indicated by the green line. The lines extending up and down from the box display the maximum temperature (up) and minimum temperature (down) for each month. And the circles indicate the number and temperature value of any data outliers.
@@ -39,7 +39,7 @@ While the numbers shown in the table seemed to be relatively close between the t
 
 ![Box and Whisker Plot for June and December Temperatures](https://github.com/bnidam/Surfs_Up/blob/main/Resources/TemperaturesBoxWhisk_June_Dec.png)
 
-- Histograms
+- Histograms: 
     The two figures below are histograms for the June and the December temperature data. 
 
     The two charts show the frequency distribution of the temperature count data for each month. By using the same scale for both data sets, it is easy to see that
