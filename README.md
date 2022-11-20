@@ -35,7 +35,7 @@ In order to assist Mr. W. Avy, it's a good idea to know somethings about Hawaii,
 
     The boxes in the middle of the image show the 50-percentile temperatures (those between 25% to 75%)  for June on the left and December on the right with the median temperature indicated by the green line. The lines extending up and down from the box display the maximum temperature (up) and minimum temperature (down) for each month. And the circles indicate the number and temperature value of any data outliers.
 
-While the numbers shown in the table seemed to be relatively close between the two months for all but one of the statistics, this plot shows extent to which the temperatures in December are cooler and more variable than those in June.
+    While the numbers shown in the table seemed to be relatively close between the two months for all but one of the statistics, this plot shows extent to which the temperatures in December are cooler and more variable than those in June.
 
 ![Box and Whisker Plot for June and December Temperatures](https://github.com/bnidam/Surfs_Up/blob/main/Resources/TemperaturesBoxWhisk_June_Dec.png)
 
@@ -49,6 +49,11 @@ While the numbers shown in the table seemed to be relatively close between the t
 
 ![Histograms for June Temps and Dec Temps](https://github.com/bnidam/Surfs_Up/blob/main/Resources/TemperaturesHistogram_June_Dec.png)
 
-
-
 ## Summary 
+From the analysis of the temperature data and what we learned about Hawaii, surfing and ice cream, it looks like Mr. W. Avy's surf and ice cream shop idea would be sustainable year-round. While sales of surfing items and ice cream are both used and consumed throughout the year, each appear to have a peak season at different times. 
+
+However, this conclusion comes from just temperature data alone. I would recommend further analysis with the following two analysis:
+
+    - Precipitation - the number of days with rain and the amount of rain, along with the correlation, if any, with temperature. Rain could keep the customers away and impact the viability of the surf and ice cream store at any time of year.  This analysis could look at these same months of June and December or could look first at impacts during a calendar year to pinpoint which months should be analyzed with the temperature data.
+
+    - Storm length and severity - the number of days with severe storms and the severity of the storms. The impacts of climate change are frequently in the news headlines. Tropical storms and hurricanes could keep the surf and ice cream store closed. This analysis should look at data for the past decade to see if there are any trends for these storms increasing in frequency, severity, and length of time. If any trends are identified, then potential seasonal trends should be analyzed to see if they correspond to temperature and/or precipitation data.
